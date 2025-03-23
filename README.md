@@ -1,1 +1,3 @@
-# Python-Exercise-Project-
+# Python-Exercise-Project: 
+    here, i have upload all my exercise and projects-programs, i have completed 
+    during my python learning program and self-study practical's and many more...
